@@ -1,0 +1,3 @@
+[submodule "flask_vk_bot"]
+	path = flask_vk_bot
+	url = https://github.com/Sithief/flask_vk_bot
